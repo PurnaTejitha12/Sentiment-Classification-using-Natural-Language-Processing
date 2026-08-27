@@ -10,7 +10,7 @@ The application analyzes the text entered by the user and predicts whether the s
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** [Click here to use the Sentiment Analyzer](YOUR_DEPLOYMENT_LINK_HERE)
+🔗 **Live Website:** [Click here to use the Sentiment Analyzer](https://purnatejitha12.github.io/Sentiment-Classification-using-Natural-Language-Processing/)
 
 > Replace `YOUR_DEPLOYMENT_LINK_HERE` with your deployed website URL.
 
